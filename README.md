@@ -11,5 +11,6 @@
 
 Другие примеры моих тест-кейсов:
 
-[Qase_other_my_test-cases.pdf](https://github.com/EvgeniaRazumovskaya/Test-cases/files/13719359/Qase_other_my_test-cases.pdf)
+[Qase_other_test-cases.pdf](https://github.com/EvgeniaRazumovskaya/Test-cases/files/13719481/Qase_other_test-cases.pdf)
+
 
